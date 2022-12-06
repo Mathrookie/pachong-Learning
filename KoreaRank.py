@@ -5,6 +5,7 @@ Created on Fri Feb 28 15:13:07 2020
 @author: MathRookie
 """
 import requests
+import numpy
 from bs4 import BeautifulSoup
 
 
